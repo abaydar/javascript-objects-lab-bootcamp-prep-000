@@ -1,1 +1,1 @@
-var recipes = new Object({});
+var recipes = new Object({cereal: "milk, cheerios",});
